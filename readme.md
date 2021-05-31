@@ -1,5 +1,6 @@
 ![alt](./docs/assets/logo_tipografia.svg)
 
+### Membros do grupo: Arthur Freitas, Matheus Manfrin e Paulo Ricardo Faria.
 ---
 
 ## Objetivo
