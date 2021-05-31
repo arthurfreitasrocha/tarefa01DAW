@@ -1,6 +1,6 @@
-## Nome
+![alt](./docs/assets/logo_tipografia.svg)
 
-# 👧 Tech Learning.
+---
 
 ## Objetivo
 
