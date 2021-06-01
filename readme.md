@@ -4,21 +4,29 @@
 
 ---
 
+<br/>
+
 # Objetivo
 
-## Hospedar cursos gratuitos profissionalizantes de tecnologia.
+## Nosso projeto chamado Tech Learning tem o principal objetivo de oferecer cursos (voltados para a TI) gratuitos para a comunidade. Os cursos são direcionados as pessoas com baixa renda que desejam se profissionalizar na área de TI em geral. Os cursos são feitos e doados por profissionais que se compadecem pela causa da empresa.
 
 <br/>
 
 # Público-alvo
 
-## Pessoas que se interessem por tecnologia.
+## Pessoas de baixa renda que tem interesse em se profissionalizar na vasta área de TI.
 
 <br/>
 
 # Mercado
 
-## Tecnologia.
+## Tecnologia no geral.
+
+<br/>
+
+# Forma de faturamento:
+
+## Através do patrocínio de terceiros e/ou doações.
 
 <br/>
 
