@@ -1,21 +1,28 @@
 ![alt](./docs/assets/logo_tipografia.svg)
 
 ### Membros do grupo: Arthur Freitas, Matheus Manfrin e Paulo Ricardo Faria.
+
 ---
 
-## Objetivo
+# Objetivo
 
-# Hospedar cursos gratuitos profissionalizantes de tecnologia.
+## Hospedar cursos gratuitos profissionalizantes de tecnologia.
 
-## Público-alvo
+<br/>
 
-# Pessoas que se interessem por tecnologia.
+# Público-alvo
 
-## Mercado
+## Pessoas que se interessem por tecnologia.
 
-# Tecnologia.
+<br/>
 
-## Regra de negócios
+# Mercado
+
+## Tecnologia.
+
+<br/>
+
+# Regra de negócios
 
 ### Admin
 
@@ -34,4 +41,8 @@
 
 ## Classe
 
-![alt](./docs/assets/main-class.svg)
+![alt](./docs/assets/classes.jpg)
+
+## Entidade e Relacionamento
+
+![alt](./docs/assets/er.jpg)
