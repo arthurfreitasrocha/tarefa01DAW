@@ -1,4 +1,4 @@
-package com.techlearning.models;
+package com.techlearning.backend.models;
 
 import java.io.Serializable;
 

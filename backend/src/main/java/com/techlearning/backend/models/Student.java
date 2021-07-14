@@ -1,4 +1,4 @@
-package com.techlearning.models;
+package com.techlearning.backend.models;
 
 import java.io.Serializable;
 
@@ -21,8 +21,8 @@ import lombok.Setter;
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
-@Table(name="students_courses")
-public class StudentCourse implements Serializable{
+@Table(name="students")
+public class Student implements Serializable{
 	private static final long serialVersionUID = 1L;
 
 	@EqualsAndHashCode.Include
@@ -31,9 +31,15 @@ public class StudentCourse implements Serializable{
 	@Column(name="id")
 	private Integer id;
 	
-	@Column(name="student_id",nullable = false)
-	private Integer student_id;
+	@Column(name="name",nullable = false)
+	private String name;
 	
-	@Column(name="instructor_id",nullable = false)
-	private Integer instructor_id;
+	@Column(name="cpf",nullable = false)
+	private String cpf;
+	
+	@Column(name="email",nullable = false)
+	private String email;
+	
+	@Column(name="password",nullable = false)
+	private String password;
 }
